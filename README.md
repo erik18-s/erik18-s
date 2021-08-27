@@ -12,7 +12,4 @@ You can click the Preview link to take a look at your changes.
 |       |               Lunes              |              Martes              |             Miercoles            |              Jueves              |              Viernes             |   |
 |-------|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|---|
 | 13:00 |     Taller de investigacion I    |     Taller de investigacion I    |     Taller de investigacion I    |     Taller de investigacion I    |     Taller de investigacion I    |   |
-| 16:00 | Gestion de proyectos de software | Gestion de proyectos de software | Gestion de proyectos de software | Gestion de proyectos de software | Gestion de proyectos de software |   |
-| 17:00 |       Sistemas programables      |       Sistemas programables      |       Sistemas programables      |       Sistemas programables      |                                  |   |
-| 18:00 |  Administracion de base de datos |  Administracion de base de datos |  Administracion de base de datos |  Administracion de base de datos |  Administracion de base de datos |   |
-| 19:00 |  Programacion logica y funcional |  Programacion logica y funcional |  Programacion logica y funcional |  Programacion logica y funcional |                                  |   |
+                      |   |
